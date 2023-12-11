@@ -1,0 +1,47 @@
+Dog_cat ---> Data  --->images  ---> cats
+                                    dogs
+
+
+
+CNN
+
+IMAGE CLASSIFICATION  Dataset --> Dog cat
+
+1.download the dataset
+2.arrange folder structur
+3.read the images
+4.CNN model define, ---> image classification
+5.CNN model training
+6.CNN model performance meassure
+7.prediction
+8.Model save
+To read the images
+
+
+# Reading image
+1.arrange the path of all the images
+2.Read images, in a pixel form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
