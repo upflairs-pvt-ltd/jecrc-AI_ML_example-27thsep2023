@@ -10,6 +10,7 @@ IMAGE CLASSIFICATION  Dataset --> Dog cat
 1.download the dataset
 2.arrange folder structur
 3.read the images
+4.Normalizing the pixel value
 4.CNN model define, ---> image classification
 5.CNN model training
 6.CNN model performance meassure
@@ -23,7 +24,9 @@ To read the images
 2.Read images, in a pixel form
 
 
-
+4.Normalizing the pixel value
+pixel range 0  -  255
+normalize in between 0  -  1 range
 
 
 

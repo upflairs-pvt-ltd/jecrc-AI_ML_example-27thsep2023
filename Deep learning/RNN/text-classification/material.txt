@@ -1,0 +1,32 @@
+Table
+
+name , dob , rollno , address , college
+rahul	25/23	12	jaipur	jecrc
+
+
+Text data => sequential data
+
+i going to agra   <--sytatic architecture
+agra going i to   <-- semantic 
+
+projects steps
+1. Read data from the file
+2. Join the data , train,text, val
+3. x , y split
+4. text number conversion
+5. model define
+6. Model train
+7. Model evaluation
+8. Prediction
+9. Model save !
+.
+
+
+
+
+
+
+
+
+
+
